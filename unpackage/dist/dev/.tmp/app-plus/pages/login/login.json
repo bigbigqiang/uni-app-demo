@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "动画绘本馆",
+  "bounce": "none",
+  "titleNView": {
+    "searchInput": {
+      "backgroundColor": "#fff",
+      "borderRadius": "6px",
+      "placeholder": "请输入搜索内容"
+    }
+  },
+  "usingComponents": {}
+}

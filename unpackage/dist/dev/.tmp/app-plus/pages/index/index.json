@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "动画绘本馆",
+  "navigationStyle": "custom",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}
